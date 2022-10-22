@@ -19,7 +19,7 @@
 
 body {
   font-size: 1.6rem;
-  background: #121214;
+  background: linear-gradient(178.63deg, #DAB700 1.17%, rgba(0, 0, 0, 1) 130.42%);
 
   display: flex;
   place-items: center;
